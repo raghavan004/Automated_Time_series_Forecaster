@@ -1,4 +1,4 @@
-# Automated_Time_series_Forecaster
+# Automated_Time_series_Forecaster(Prototype-Full Python code)
 AutoForecast-SK is a streamlined, intelligent forecasting system built on LinkedIn's Silverkite algorithm from the Greykite library. It enables users to input their dataset, configure a few parameters, and instantly generate highly accurate and interpretable forecasts—ideal for business and operational planning with minimal manual effort.
 
 🌟 What It Does
